@@ -243,8 +243,8 @@ function App() {
           </div>
 
           <div>
-            HP {c.hp}
-            AC {c.ac}
+            {/* HP {c.hp}
+            AC {c.ac} */}
             <table style={{ ...styles.table, backgroundColor: c.color }}>
               <tr>
                 <td
